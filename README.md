@@ -32,6 +32,8 @@ Statistical comparison results for all algorithms.
 
 **Records:** 6 rows (1 per algorithm)
 
+---
+
 **Key Results:**
 - Enhanced CSO vs Standard CSO: 57.12% improvement, p < 0.001, d = -2.39
 - All comparisons highly significant (p < 0.000001)
@@ -64,10 +66,11 @@ If you use this data or code, please cite:
 ## 📧 Contact
 
 **Chandra Shaker Arrabotu**  
-Amrita School of Engineering, Coimbatore  
+Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India 
 Email: a_chandrashaker@cb.students.amrita.edu
 
 **Corresponding Author: Anita J P**  
+Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India 
 Email: jp_anita@cb.amrita.edu
 
 ---
