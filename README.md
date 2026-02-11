@@ -37,15 +37,7 @@ Statistical comparison results for all algorithms.
 - All comparisons highly significant (p < 0.000001)
 - All effect sizes large (|d| > 1.6)
 
-### Currently Available:
-✅ **Raw Experimental Data** (`data/performance_metrics.csv`)
-- 30 independent runs × 6 algorithms
-- Metrics: Fitness, Latency, Energy, CPU Utilization
-
-**Statistical Validation:**
-- All comparisons: p < 0.000001
-- Effect sizes: |d| > 1.6 (large)
-- 30 independent runs per algorithm
+---
 
 ### Coming After Acceptance:
 ⏳ Source code implementations  
