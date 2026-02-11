@@ -12,8 +12,6 @@ This repository contains experimental results for:
 
 ## 📊 Data Availability
 
-## Files
-
 ### ✅`performance_metrics.csv` 
 Raw experimental results from 30 independent runs.
 
@@ -34,18 +32,18 @@ Statistical comparison results for all algorithms.
 
 ---
 
-**Key Results:**
+## 🎯 Key Results:
 - Enhanced CSO vs Standard CSO: 57.12% improvement, p < 0.001, d = -2.39
 - All comparisons highly significant (p < 0.000001)
 - All effect sizes large (|d| > 1.6)
 
 ---
 
-### Coming After Acceptance:
-⏳ Source code implementations  
-⏳ Visualization figures  
-⏳ Detailed experimental report  
-⏳ Statistical analysis scripts  
+## ⏳ Coming After Acceptance:
+- Source code implementations  
+- Visualization figures  
+- Detailed experimental report  
+- Statistical analysis scripts  
 
 ---
 
